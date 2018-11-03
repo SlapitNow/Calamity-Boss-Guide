@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Conclave Crossfire, Helstorm, Tsunami, Malevolence. Chloro/Terra Ammo.
+    * **Ranged**: Conclave Crossfire, Helstorm, Tsunami, Malevolence, P90. Hyperius/Chloro/Terra Ammo.
 
     * **Melee**: Omniblade, Terra Edge, Terra Blade, Tyrant Yharim's Ultisword, Hellfire Flamberge.
 
